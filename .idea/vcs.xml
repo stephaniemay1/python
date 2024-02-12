@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/../basics" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../morning class" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../text" vcs="Git" />
   </component>
 </project>
